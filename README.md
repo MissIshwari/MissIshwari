@@ -2,7 +2,6 @@
 - 🌱 I am currently learning cloud engineering and DevOps.
 - 👯 I am interested in collaborating on architecting solutions.
 
-![image](https://github.com/MissIshwari/MissIshwari/assets/46324182/420fb429-c7fb-4965-9312-fd883ccb3e7f)
 
 
 <!--
