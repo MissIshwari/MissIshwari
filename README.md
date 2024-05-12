@@ -2,7 +2,8 @@
 - 🌱 I am currently learning cloud engineering and DevOps.
 - 👯 I am interested in collaborating on architecting solutions.
 
-  https://media1.giphy.com/media/4bi9zPMnVLkyiQS1pz/200w.gif?cid=eec9eb2a314yhgv5pw1o0m0xgt7e98pmu8kmojwio0sug19p&ep=v1_gifs_search&rid=200w.gif&ct=g
+![image](https://github.com/MissIshwari/MissIshwari/assets/46324182/420fb429-c7fb-4965-9312-fd883ccb3e7f)
+
 
 <!--
 **MissIshwari/MissIshwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
