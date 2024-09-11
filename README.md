@@ -1,5 +1,5 @@
 - 🔭 I am presently dedicated to deploying reliable, scalable, and highly available applications.
-- 🌱 I am currently learning cloud engineering and DevOps.
+- 🌱 Extensive experience with DevOps, Cloud, Development and architecting the application
 - 👯 I am interested in collaborating on architecting solutions.
 
 
