@@ -1,6 +1,7 @@
 - 🔭 I am presently dedicated to deploying reliable, scalable, and highly available applications.
 - 🌱 Extensive experience with DevOps, Cloud, Development and architecting the application
 - 👯 I am interested in collaborating on architecting solutions.
+- My Tableau dashboard - https://public.tableau.com/authoring/NetSalesDataoverdifferentQuarters/Sheet1#1 
 
 
 
